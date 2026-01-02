@@ -4,7 +4,7 @@ I am a Full-Stack Developer passionate about building high-performance, scalable
 
 * 🌍 I'm based in Melbourne, Australia 
 * ✉️ You can contact me at prashantkhadka.work@gmail.com 
-* 🧠 I'm learning Redis cache and typescript
+* 🧠 I'm learning Redis cache, typescript and nextjs
 * 🤝 I'm open to collaborating on Software Development, Web Application development 
 * ⚡ I am quite a bit Gamer| and I love playing soccer 
 * ⚡ View my portfolio to see my works. https://prashant11.com
